@@ -51,5 +51,5 @@ AM is trained by policy gradient using <a href="https://link.springer.com/articl
  10) results folder: folder name is ADM_VRP_{graph_size}_{batch_size}. There are training logs, learning curves and saved models in each folder 
  
  # Training procedure:
-  1) Open  **train_model.ipynb** and choose training parameters.
+  1) Open  **train_with_checkpoint.ipynb** and choose training parameters.
   2) All outputs would be saved in current directory.
