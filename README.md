@@ -45,7 +45,7 @@ AM is trained by policy gradient using <a href="https://link.springer.com/articl
  4) **attention_graph_decoder.py** - Graph Attention Decoder
  5) **attention_model.py** - Attention Model
  6) **reinforce_baseline.py** - class for REINFORCE baseline
- 7) **train.py** - defines training loop, that we use in train_model.ipynb
+ 7) **train.py** - defines training loop, that we use in train_with_checkpoint.ipynb
  8) **train_with_checkpoint.ipynb** - from this file one can start training or continue training from chechpoint
  9) **generate_data.py** - various auxiliary functions for data creation, saving and visualisation
  10) results folder: folder name is ADM_VRP_{graph_size}_{batch_size}. There are training logs, learning curves and saved models in each folder 
