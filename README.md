@@ -39,8 +39,6 @@ AM is trained by policy gradient using <a href="https://link.springer.com/articl
 
 # Files Description:
 
-Implementation in **TensorFlow 2**
-
  1) **Enviroment.py** - enviroment for VRP RL Agent
  2) **attention_graph_encoder.py** - Graph Attention Encoder
  3) **layers.py** - MHA layers for encoder
