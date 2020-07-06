@@ -5,7 +5,7 @@
 
 This work was done as part of a final project for <a href="http://deeppavlov.ai">DeepPavlov </a> course: <a href="http://deeppavlov.ai/rl_course_2020">Advanced Topics in Deep Reinforcement learning</a>.
 
-Code of the full project one can find at https://github.com/d-eremeev/ADM-VRP
+Code of the full project (<a href="https://arxiv.org/abs/2002.03282">dynamic version</a>) is located at https://github.com/d-eremeev/ADM-VRP
 
 #### Enviroment:
 
