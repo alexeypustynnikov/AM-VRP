@@ -12,7 +12,7 @@ class AttentionModel(tf.keras.Model):
 
     def __init__(self,
                  embedding_dim,
-                 n_encode_layers=2,
+                 n_encode_layers=3,
                  n_heads=8,
                  tanh_clipping=10.
                  ):
